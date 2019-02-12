@@ -1,0 +1,12 @@
+# main links
+main:
+   - title: "Research Activity"
+     url: /res-act/
+   - title: "About  <something1>"
+     url: /som1/
+   - title: "About <something2>"
+     url: /som2/
+   - title: "Free Time"
+     url: /free-time/
+   - title: "About Me"
+     url: /me/
