@@ -2,10 +2,8 @@
 main:
    - title: "Research Activity"
      url: /res-act/
-   - title: "About  <something1>"
-     url: /som1/
-   - title: "About <something2>"
-     url: /som2/
+   - title: "How to gives talks"
+     url: /give-talk/
    - title: "Free Time"
      url: /free-time/
    - title: "About Me"
