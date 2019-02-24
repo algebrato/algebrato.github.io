@@ -7,6 +7,9 @@ author_profile: true
 
 
 ![test](/assets/img/CMB.jpg)
+*Bla bla bla image caption?*
+
+
 
 ## Cosmology
 
