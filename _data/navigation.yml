@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Research Activity"
-     url: /res-act/
+   - title: "Computer science"
+     url: /cmp-sci/
    - title: "How to gives talks"
      url: /give-talk/
    - title: "Free Time"
