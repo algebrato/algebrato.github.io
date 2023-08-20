@@ -1,0 +1,4 @@
+name: website_algebrato
+packages: []
+language: ruby
+appmap_dir: tmp/appmap
